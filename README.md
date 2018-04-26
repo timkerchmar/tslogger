@@ -1,8 +1,8 @@
-#TSLogger
+# TSLogger
 
 See standard output on Windows and Android. Tested on Windows, Android, OSX, iOS.
  
-##Usage
+## Usage
 
 Include TSLogger.h and call this method as early as possible:
 
