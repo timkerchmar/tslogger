@@ -44,6 +44,7 @@ struct console
 #elif defined(ANDROID)
 #include <unistd.h>
 #include <android/log.h>
+#include <string>
 
 // Route stdout to logcat D/
 static int pfd[2];
